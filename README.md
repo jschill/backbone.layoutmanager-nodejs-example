@@ -11,3 +11,8 @@ Installation
 * npm install express backbone backbone.layoutmanager
 * node server
 * Go to http://localhost:8000
+
+Links
+-----
+* http://layoutmanager.org/
+* https://vimeo.com/46033641
